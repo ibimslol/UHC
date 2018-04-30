@@ -1,0 +1,13 @@
+name: UHCDoDo
+main: KaitoDoDo\UHC\UHC
+author: KaitoDoDo
+version: Ghast
+api: [3.0.0-ALPHA12]
+
+commands:
+    uhc:
+        usage: /uhc <make>
+        description: UHC-Commands
+    uhcstart:
+        usage: /uhcstart
+        description: Force-UHC-start
